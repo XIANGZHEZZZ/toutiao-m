@@ -1,6 +1,7 @@
 <template>
-  <dir>456</dir>
-  <div>789</div>
+  <dir>456
+    <i>78978746</i>
+  </dir>
 </template>
 
 <script>
