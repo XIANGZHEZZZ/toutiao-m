@@ -1,5 +1,6 @@
 <template>
   <dir>456</dir>
+  <div>789</div>
 </template>
 
 <script>
